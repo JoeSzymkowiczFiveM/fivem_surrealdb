@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/JoeSzymkowiczFiveM/fivem_surrealdb/assets/70592880/493fa452-4da8-4a23-a4f2-8585072271cf">
+</p>
+
+
 # fivem_surrealdb
 
 A FiveM resource to communicate with a SurrealDB database using [surrealdb.js](https://www.npmjs.com/package/surrealdb.js). Get started using PocketBase by downloading the database [here](https://surrealdb.com/install) and you can find usage documentation about the SDK [here](https://surrealdb.com/docs/integration/sdks/nodejs).
