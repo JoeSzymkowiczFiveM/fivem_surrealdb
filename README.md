@@ -23,7 +23,7 @@ A FiveM resource to communicate with a SurrealDB database using [surrealdb.js](h
 exec "database.cfg"
 start fivem_surrealdb
 ```
-- Change `surrealdb_url`, `surrealdb_user`, and `surrealdb_password` in `database.cfg`.
+- Change `surrealdb_url`, `surrealdb_user`, `surrealdb_password`, `surrealdb_database`, and `surrealdb_namespace` in `database.cfg`.
 - Run `npm install` in `resources/fivem_surrealdb` directory.
 
 
